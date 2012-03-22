@@ -1,0 +1,10 @@
+Simple blogger API interface in python 
+to list and post to your blogs in HTML format
+
+--
+
+Requirements:
+Python, Gdata
+sudo easy_install gdata
+
+
