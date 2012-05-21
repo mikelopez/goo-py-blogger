@@ -6,7 +6,7 @@ import atom
 
 class GoogleBlogger:
   """ a basic google API interface / blogger 
-  Author: (c) Marcos Lopez - dev@scidentify.info """
+  Author: Marcos Lopez - dev@scidentify.info """
 
   blogger = ''
   user = ''
